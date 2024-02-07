@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import readlineSync from 'readline-sync';
 import greeting from '../src/cli.js';
 
 const userName = greeting();
@@ -6,7 +7,7 @@ const userName = greeting();
 console.log('Answer "yes" if the number is even, otherwise answer "no".'); 
 
 const task = () => {
-    const q = (Math.round() *100);
+    const q = Math.round(Math.random() * 100);
     // const a = q % 2;
     let a = '';
     if (q % 2 === 0) {
@@ -18,4 +19,18 @@ const task = () => {
     return [q, a];
 };
 
+for (let i = 1; i <= 3; i += 1) {
+    const step = task();
+
+    console.log(`Question: ${step[0]}`);
+    const answer = readlineSync.question('Answer: ');
+
+    if (answer === step[1]) {
+        console.log('Correct!')
+    } else {
+        console.log(`${answer} is wrong answer ;(. Correct answer was ${step[1]}`);
+        console.log(`Let's try again, ${userName}`);
+    }
+}
+ 
 console.log(task());
