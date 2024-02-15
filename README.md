@@ -15,3 +15,7 @@
 ![step 8](https://github.com/xxinxl/frontend-project-44/blob/main/step8.png)
 
 ![step 8 - wrong](https://github.com/xxinxl/frontend-project-44/blob/main/step8-wrong.png)
+
+![step 9](https://github.com/xxinxl/frontend-project-44/blob/main/step9.png)
+
+![step 9 - wrong](https://github.com/xxinxl/frontend-project-44/blob/main/step9-wrong.png)
