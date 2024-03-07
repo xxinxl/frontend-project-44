@@ -10,6 +10,4 @@
 
 [![step 8](https://asciinema.org/a/u4Y7o0qvnngp9g28quLIwe0nt.svg)](https://asciinema.org/a/u4Y7o0qvnngp9g28quLIwe0nt)
 
-![step 9](https://github.com/xxinxl/frontend-project-44/blob/main/step9.png)
-
-![step 9 - wrong](https://github.com/xxinxl/frontend-project-44/blob/main/step9-wrong.png)
+[![step 9](https://asciinema.org/a/LbP51Lyfl39Oj0s6aa2YoCIAe.svg)](https://asciinema.org/a/LbP51Lyfl39Oj0s6aa2YoCIAe)
