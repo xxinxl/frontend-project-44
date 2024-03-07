@@ -8,9 +8,7 @@
 
 [![step 7](https://asciinema.org/a/xTQsNY8w3iiP3bkBHdZtztLbf.svg)](https://asciinema.org/a/xTQsNY8w3iiP3bkBHdZtztLbf)
 
-![step 8](https://github.com/xxinxl/frontend-project-44/blob/main/step8.png)
-
-![step 8 - wrong](https://github.com/xxinxl/frontend-project-44/blob/main/step8-wrong.png)
+[![step 8](https://asciinema.org/a/u4Y7o0qvnngp9g28quLIwe0nt.svg)](https://asciinema.org/a/u4Y7o0qvnngp9g28quLIwe0nt)
 
 ![step 9](https://github.com/xxinxl/frontend-project-44/blob/main/step9.png)
 
