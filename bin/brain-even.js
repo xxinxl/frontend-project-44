@@ -2,7 +2,7 @@
 // import readlineSync from 'readline-sync';
 // import greeting from '../src/cli.js';
 import gameBody from '../src/gameBody.js';
-import task1 from '../src/games/task1.js';
+import task1 from '../src/games/even.js';
 
 // const userName = greeting();
 
